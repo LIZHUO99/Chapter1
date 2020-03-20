@@ -18,25 +18,25 @@ Android Studio 的配置环境
 
 并加了一个ImageView进去：
 
-![avatar](.\snapshots\README1.JPG "运行demo并加了一个图片")
+<img src="./snapshots/README1.JPG" alt="avatar" title="运行demo并加了一个图片" style="zoom:50%;" />
 
 ## 2.创建Android工程并使用不同的view
 
 自己创建了一个工程并且在layout中加了几个不同的组件，并改了icon预览图如下
 
-![avatar](./snapshots/README2.JPG)
+<img src="./snapshots/README2.JPG" alt="avatar" style="zoom:50%;" />
 
 运行虚拟机（Nexus 5X），效果如下：
 
-![avatar](./snapshots/README3.PNG)
+<img src="./snapshots/README3.PNG" alt="avatar" style="zoom:33%;" />
 
 打包apk发送到手机（Android 8）安装后效果如下
 
-![avatar](./snapshots/README4.JPG)
+<img src="./snapshots/README4.JPG" alt="avatar" style="zoom:33%;" />
 
 icon效果:
 
-![avatar](./snapshots/README5.JPG)
+<img src="./snapshots/README5.JPG" alt="avatar" style="zoom:25%;" />
 
 ## 3. 使用其他Android开发工具
 

@@ -28,15 +28,15 @@ Android Studio 的配置环境
 
 运行虚拟机（Nexus 5X），效果如下：
 
-<img src="./snapshots/README3.PNG" alt="avatar" style="zoom:33%;" />
+<img src="./snapshots/README3.png" alt="avatar" style="zoom:33%;" />
 
 打包apk发送到手机（Android 8）安装后效果如下
 
-<img src="./snapshots/README4.JPG" alt="avatar" style="zoom:33%;" />
+<img src="./snapshots/README4.jpg" alt="avatar" style="zoom:33%;" />
 
 icon效果:
 
-<img src="./snapshots/README5.JPG" alt="avatar" style="zoom:25%;" />
+<img src="./snapshots/README5.jpg" alt="avatar" style="zoom:25%;" />
 
 ## 3. 使用其他Android开发工具
 
